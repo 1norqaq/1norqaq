@@ -1,6 +1,6 @@
 # Haoran Chen (陈浩然)
 
-M1 in Trust & Responsible AI @ École Polytechnique · AI Research Intern @ HrFlow.ai
+M1 in Trustworthy & Responsible AI @ École Polytechnique · AI Research Intern @ HrFlow.ai
 
 I work on **fairness in AI-assisted hiring** — auditing and improving the fairness of recruitment models, and measuring bias in human hiring decisions. I'm interested in statistically rigorous, falsifiable audit protocols for production ML systems. Open to PhD positions and 2027 industry roles.
 
