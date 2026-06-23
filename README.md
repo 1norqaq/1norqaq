@@ -1,16 +1,17 @@
-## Hi there 👋
+# Haoran Chen (陈浩然)
 
-<!--
-**1norqaq/1norqaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M1 in Trust & Responsible AI @ École Polytechnique · AI Research Intern @ HrFlow.ai
 
-Here are some ideas to get you started:
+I work on **fairness in AI-assisted hiring** — auditing and improving the fairness of recruitment models, and measuring bias in human hiring decisions. I'm interested in statistically rigorous, falsifiable audit protocols for production ML systems. Open to PhD positions and 2027 industry roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Paris · [LinkedIn](https://www.linkedin.com/in/haoran-chen-9614a3388) · haoran.chen@polytechnique.edu
+
+### Selected work
+
+- **Threshold-Honest Auditing of Production Hiring Models** — under review (NeurIPS 2026). Released THA-Synth (MIT). · [`tha-synth`](https://github.com/1norqaq/tha-synth)
+- **Auditing the Auditor: Paired Synthetic Controls for Calibrating Fairness Audits** — under review (AAAI 2027). · [`paired-synth-controls`](https://github.com/1norqaq/paired-synth-controls)
+- **Auditing the LLM-as-Judge with Paired Synthetic Controls** — porting the audit-the-auditor method to LLM evaluation. · [`audit-the-judge`](https://github.com/1norqaq/audit-the-judge)
+- **Beyond Model Bias: Auditing Historical Hiring Labels in AI-Assisted Recruitment** — under review (AIES 2026).
+- **Enhancing SignSGD: Small-Batch Convergence Analysis and a Hybrid Switching Strategy** — [arXiv:2604.25550](https://arxiv.org/abs/2604.25550).
+
+`Python` · `PyTorch` · `pandas` / `scikit-learn` / `statsmodels` · LLMs & RAG
