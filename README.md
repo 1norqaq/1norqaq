@@ -1,6 +1,6 @@
 # Haoran Chen (陈浩然)
 
-Hi! Here is Haoran. I study Trustworthy & Responsible AI at École Polytechnique and work on AI fairness and evaluation as a research intern at HrFlow.ai.
+Hi! This is Haoran, I’m studying Trustworthy & Responsible AI at École Polytechnique, and I’m currently working on AI fairness and evaluation as a research intern at HrFlow.ai.
 
 
 I work on Trustworthy AI, LLM Evaluation, and AI Safety, with a focus on statistically rigorous and falsifiable audit protocols for production ML systems. My current work spans LLM-as-judge auditing, AI safety evaluation, and fairness audits for AI-assisted hiring, including recruitment models, LLM-based hiring tools, and human decision bias. Open to PhD positions and 2027 industry roles.
