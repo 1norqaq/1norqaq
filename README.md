@@ -2,7 +2,8 @@
 
 M1 in Trustworthy & Responsible AI @ École Polytechnique · AI Research Intern @ HrFlow.ai
 
-I work on Trustworthy AI, LLM Evaluation, and AI Safety, with production experience in fairness audits for AI-assisted hiring. My research focuses on statistically rigorous and falsifiable audit protocols for production ML systems — including LLM-as-judge evaluation, recruitment model fairness, and bias measurement in human hiring decisions. Open to PhD positions and 2027 industry roles.
+I work on Trustworthy AI and LLM Evaluation, with a focus on building statistically rigorous, falsifiable audit protocols for production ML systems. My current work spans LLM-as-judge auditing, AI safety evaluation, and fairness audits for AI-assisted hiring, including recruitment models, LLM-based hiring tools, and human decision bias. Open to PhD positions and 2027 industry roles.
+
 
 
 📍 Paris · [LinkedIn](https://www.linkedin.com/in/haoran-chen-9614a3388) · haoran.chen@polytechnique.edu
