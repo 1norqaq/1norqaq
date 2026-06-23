@@ -2,7 +2,7 @@
 
 Hi! I’m Haoran, a Master’s student in Trustworthy & Responsible AI at École Polytechnique. I’m currently working on AI fairness and evaluation as a research intern at HrFlow.ai.
 
-I work on Trustworthy AI, LLMs Evaluation, and AI Safety, with a focus on statistically rigorous and falsifiable audit protocols for production ML systems. My current work spans LLM-as-judge auditing, AI safety evaluation, and fairness audits for AI-assisted hiring, including recruitment models, LLM-based hiring tools, and human decision bias. I‘m open to PhD positions and 2027 industry roles.
+I work on Trustworthy AI, LLM Evaluation, and AI Safety, with a focus on statistically rigorous and falsifiable audit protocols for production ML systems. My current work spans LLM-as-judge auditing, fairness audits for AI-assisted hiring, recruitment model evaluation, LLM-based hiring tools, and human decision bias. I'm open to PhD positions and 2027 industry roles.
 
 
 
