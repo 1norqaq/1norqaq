@@ -12,7 +12,7 @@ question asked in different places: *is this signal real, and is it reaching the
   cluster bootstrap, BH-FDR, negative and positive controls, not point estimates.
 - **Reward signals & post-training** — reward construction and leakage auditing, counterfactual
   data augmentation, controlled "same architecture, same loss, different training target"
-  experiments. I'm currently extending this to **credit assignment in long-horizon agentic RL**,
+  experiments. I'm currently extending this to **credit assignment in long-horizon Agentic RL**,
   where a single terminal reward has to be attributed across a whole trajectory.
 
 A result I keep running into: alignment quality is decided far more by the target you train
