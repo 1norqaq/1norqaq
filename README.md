@@ -21,6 +21,6 @@ signals instead of designing losses.
 
 📍 Paris · [LinkedIn](https://linkedin.com/in/haoran-chen-9614a3388) · haoran.chen@polytechnique.edu
 
-I'm open to PhD positions and 2027 intern roles.
+I'm open to 2027 intern roles.
 
 `Python` · `PyTorch` · `TRL` · `pandas` / `scikit-learn` / `statsmodels` · LLM Evaluation, RLHF & Agentic RL
