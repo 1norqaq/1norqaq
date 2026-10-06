@@ -2,21 +2,7 @@
 
 Hi! I'm Haoran, a Master's student in Trustworthy & Responsible AI at École Polytechnique.
 
-I work on the signals we use to evaluate and train LLM systems — whether they measure what
-we think they measure, and whether they land where they should. Most of my work is the same
-question asked in different places: *is this signal real, and is it reaching the right target?*
-
-- **Evaluation & auditing** — LLM-as-judge reliability, fairness audits for AI-assisted hiring,
-  probe validity and artifact detection. I care about protocols that can actually fail:
-  cluster bootstrap, BH-FDR, negative and positive controls, not point estimates.
-- **Reward signals & post-training** — reward construction and leakage auditing, counterfactual
-  data augmentation, controlled "same architecture, same loss, different training target"
-  experiments. I'm currently extending this to credit assignment in long-horizon Agentic RL,
-  where a single terminal reward has to be attributed across a whole trajectory.
-
-A result I keep running into: alignment quality is decided far more by the target you train
-against than by the constraints you bolt onto the loss. Which is why I keep ending up auditing
-signals instead of designing losses.
+I focus on reliable learning and evaluation for large language models and agents. My research interests include agentic reinforcement learning, long-horizon credit assignment, LLM evaluation, and trustworthy AI. I am particularly interested in designing feedback signals that are better attributed, calibrated, and auditable, and in understanding how LLM-based evaluators can be made more reliable. My recent work spans agentic distillation with GRPO, auditing LLM-as-a-Judge systems, fairness evaluation in real-world AI pipelines, and efficient adaptation of large language models.
 
 📍 Paris · [LinkedIn](https://linkedin.com/in/haoran-chen-9614a3388) · haoran.chen@polytechnique.edu
 
