@@ -1,7 +1,6 @@
 # Haoran Chen (陈浩然)
 
-Hi! I'm Haoran, a Master's student in Trustworthy & Responsible AI at École Polytechnique,
-currently a research intern at HrFlow.ai and part of a research collaboration on Agentic RL.
+Hi! I'm Haoran, a Master's student in Trustworthy & Responsible AI at École Polytechnique.
 
 I work on the signals we use to evaluate and train LLM systems — whether they measure what
 we think they measure, and whether they land where they should. Most of my work is the same
